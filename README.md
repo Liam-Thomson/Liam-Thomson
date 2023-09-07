@@ -1,21 +1,15 @@
-### Hi there 👋
+# Liam Thomsons Portfolio
 
-# Projects
-This folder showcases the projects i have completed.
-## Contents
-* [Eminem Project](eminem-Project)
+## Skills
 
-<!--
-**Liam-Thomson/Liam-Thomson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Subsection
 
-Here are some ideas to get you started:
+### Subsection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Past projects
+
+
+### Subsection
+
+## About me
+I am currenty studying at EdX, enrolled in their coding bootcamp!
