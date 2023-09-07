@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#projects
+this folder showcases the projects i have completed.
+##contents
+*[Eminem Project] (Eminem Project)
+
 <!--
 **Liam-Thomson/Liam-Thomson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
